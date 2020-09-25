@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to right, #4682B4, #00FFFF, #00FA9A);;
+}
+<style type="text/css">
+	#gradient2 {
+	  background-image: linear-gradient(to right, #4682B4, #00FFFF, #00FA9A);
+	}
+</style>
+h1, h2, h3 {
+    background: #fff;
+    padding: 5px 15px;
+    margin-bottom: 5px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: darkslateblue;
+}
+p {
+    color: blueviolet;
+    size: 20px;
+}
+h2, h3, h4, h5, h6 {
+    color: darkblue;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+ul a{
+    text-decoration: none;
+}
